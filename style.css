@@ -1,0 +1,19 @@
+h1, h2{text-align: center;}
+
+h1{color: rgb(218, 11, 255);
+    font-family: 'Tahoma', sans-serif;}
+
+h2{color: azure;
+    font-family: 'Verdana', sans-serif;}
+
+body{background-color: rgb(0, 0, 0);
+    color: azure;}
+
+table, td{
+    border-width:1px; 
+    border-style:solid; 
+    border-color:rgb(255, 255, 255);
+    width:50%;}
+
+.film{
+    font-style: italic;}
